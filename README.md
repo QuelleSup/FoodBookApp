@@ -1,12 +1,27 @@
 # FoodBook
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
-https://bariksek.github.io/FoodBook/
+## Development server
 
-Aplikacja ma za zadanie wspomagać użytkowników przy wyborze śniadania, obiadu, kolacji lub deseru do przygotowania.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Użytkownik może: zaznaczać produkty, które posiada w swojej lodówce, a program ma za zadanie wybrać przepis, który w największym stopniu będzie pokrywał się z produktami przez niego podanymi. zapisać wyszukane danie w zakładce "Ulubione" zaznaczać dany przepis jako zrobiony po czym w innej zakładce pojawia się historia z podaną godziną i dniem przygotowania posiłków. w przypadku przeoczenia rekomendowanego przepisu przez aplikację, osoba korzystająca z “FoodBook” znajdzie poprzednio przeglądane przepisy w zakładce Historia.
+## Code scaffolding
 
-Użytkownik rejestruje się do aplikacji poprzez ręczne wpisanie loginu i hasła. Dane o koncie użytkownika przechowywane będą przy użyciu bazy danych Google Firebase. Aplikacja będzie w języku angielskim.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Dane na temat produktów jak i przepisów pobierane będą z API udostępnionego przez stronę spoonacular.com. Pomocą przy organizacji prac projektowych nad aplikacją będzie platforma Trello, a czas realizacji monitorowany będzie poprzez platformę Toggl.
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).

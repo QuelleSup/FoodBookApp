@@ -26,6 +26,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-Aplikacja ma za zadanie wspomagać użytkowników przy wyborze śniadania, obiadu, kolacji lub deseru do przygotowania.
-
->>>>>>> 759e7fd65b568483fba1977d704ee0ad782db2ce
